@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VoidCorew/VoidCorew/master/profile-banner.png" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VoidCorew/VoidCorew/main/banner.jpg" alt="Banner" width="100%"/>
 </p>
 
 # Hi there, I'm Your Name 👋
