@@ -1,29 +1,28 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VoidCorew/VoidCorew/main/banner.jpg" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VoidCorew/VoidCorew/main/banner.jpg" alt="Banner" width="300"/>
 </p>
 
-# Hi there, I'm Your Name 👋
+# Hi there, I'm VoidCorew 👋
 
 <p align="center">
   <a href="https://github.com/VoidCorew">
-    <img src="https://img.shields.io/badge/GitHub-YourUsername-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-VoidCorew-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/moe-qwe-546751364/">
+<!--   <a href="https://www.linkedin.com/in/moe-qwe-546751364/">
     <img src="https://img.shields.io/badge/LinkedIn-YourProfile-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
   <a href="mailto:morwe747@gmail.com">
-    <img src="https://img.shields.io/badge/Email-youremail@example.com-D14836?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-morwe747@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Graduated in Computer Science at XYZ University  
-- 💼 Currently working as a **Flutter Developer** at **Awesome Co.**  
-- 🌱 Learning **Bloc**, **Riverpod**, and **Clean Architecture**  
-- 🏆 Flutter Enthusiast & Mobile UI/UX Advocate  
-- 💬 Ask me about **Dart**, **Flutter**, or **cross-platform development**  
+- 💼 Currently working as a **Flutter Developer** at **Ink Flow** and **Rhytmix**  
+- 🌱 Learning **Bloc**, **Riverpod**, and **Clean Architecture**
+- 🏆 Flutter Enthusiast & Mobile UI/UX Advocate
+- 💬 Ask me about **Dart**, **Flutter**, or **Cross-Platform Development**  
 
 ---
 
@@ -45,86 +44,8 @@
 
 ---
 
-## 📂 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/your-username/project-one">
-        <img src="https://raw.githubusercontent.com/your-username/project-one/master/screenshot.png" alt="Project One" width="200px"/><br/>
-        <b>Project One</b>
-      </a>
-      <p>⚡ A Flutter app that does amazing things.</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/your-username/project-two">
-        <img src="https://raw.githubusercontent.com/your-username/project-two/master/screenshot.png" alt="Project Two" width="200px"/><br/>
-        <b>Project Two</b>
-      </a>
-      <p>🎨 Beautiful UI built with custom widgets.</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/your-username/project-three">
-        <img src="https://raw.githubusercontent.com/your-username/project-three/master/screenshot.png" alt="Project Three" width="200px"/><br/>
-        <b>Project Three</b>
-      </a>
-      <p>🔒 Secure authentication & CI/CD setup.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Your GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/your_twitter">
-    <img src="https://img.shields.io/badge/Twitter-@your_twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/>
-  </a>
-  <a href="https://dev.to/your_devto">
-    <img src="https://img.shields.io/badge/Dev.to-YourProfile-0A0A0A?style=for-the-badge&logo=devdotto" alt="Dev.to"/>
-  </a>
-  <a href="https://medium.com/@your_medium">
-    <img src="https://img.shields.io/badge/Medium-YourProfile-12100E?style=for-the-badge&logo=medium" alt="Medium"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>  
-</p>
-
----
-
-<h1 align="center">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Anton Very Hot Potato and I'm a fake programmer, from Antarctica</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 20 years<br>📚 I'm currently learning Flutter<br>🎯 Goals: To master Flutter, Unreal Engine (also become a world hacker and hack everything)<br>🎲 Fun fact: I want to improve my knowledge in programming (also I like elephants and hot potatoes)</p>
-
-###
-
 <h2 align="left">I code with</h2>
-
-###
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
